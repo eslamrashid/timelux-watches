@@ -19,11 +19,11 @@ The main purpose of this project is to demonstrate how a no-code/low-code platfo
 
 Live Website Link
 
-Visit the Live Website
+[Visit the Live Website](https://eslamrashid12311.wixsite.com/timelux-watches)
 
-GitHub Repository Link
+GitHub Repository Link:
 
-View GitHub Repository
+[View GitHub Repository](https://github.com/eslamrashid/timelux-watches/blob/main/README.md)
 
 Platform Used
 
@@ -43,15 +43,6 @@ The website includes the following pages:
     The contact page includes email, phone number, location, and a contact form.
 5. Cart Page
     The cart page allows customers to view products added to the cart.
-
-Products Included
-
-Product Name	Price	Description
-Classic Leather Watch	RWF 35,000	A stylish leather strap watch suitable for work, school, and formal events.
-Silver Business Watch	RWF 45,000	An elegant silver watch designed for a smart and professional look.
-Sport Digital Watch	RWF 30,000	A durable digital watch for sports, fitness, and daily activities.
-Gold Luxury Watch	RWF 60,000	A premium gold-style watch that adds class and confidence to any outfit.
-Minimalist Black Watch	RWF 40,000	A simple black watch with a clean design for modern everyday wear.
 
 Features Implemented
 
