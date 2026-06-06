@@ -85,3 +85,7 @@ Through this project, I learned how to create a simple e-commerce website using 
 
 I also learned how to document a project using GitHub Markdown and how to organize a repository with a README file and screenshots.
 
+screenshot
+
+<img width="958" height="439" alt="about" src="https://github.com/user-attachments/assets/813b8de4-5ec5-4d39-8b2b-581304ffa501" />
+
