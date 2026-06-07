@@ -3,9 +3,9 @@
 
 TimeLux Watches
 
-Student Name: Islam Rashid
-Student ID : 24473/2024
-Course: E-Commerce and Web Application
+* Student Name: Islam Rashid
+* Student ID : 24473/2024
+* Course: E-Commerce and Web Application
 
 Project Title
 
